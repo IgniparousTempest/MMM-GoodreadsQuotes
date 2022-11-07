@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+
+# Node folders
+dist/
+node_modules/
+
+# Apple nonsense
+.DS_Store
